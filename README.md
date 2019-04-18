@@ -1,7 +1,7 @@
 # EAC
- Energetic particle and toroidal Alfve´n wave interaction Code 
+ Energetic particle and toroidal Alfvén wave interaction Code 
 
 
 
-Refrence:
+Reference:
 [1] Phys. Plasmas 20, 072508 (2013). 
